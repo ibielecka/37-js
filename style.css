@@ -1,0 +1,30 @@
+body
+{
+    background-color: #209781;
+    text-align: center;
+}
+
+div {
+    margin-top: 200px;;
+
+}
+h1
+{
+    font-size: 60px;
+    color: aquamarine;
+    display: inline;
+    text-align: center;
+}
+
+button
+{
+    height: 50px;
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 3px;
+    color: gold;
+    font-size: large;
+    background-color: darkgreen;
+}
+
+
