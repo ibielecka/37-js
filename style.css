@@ -27,4 +27,15 @@ button
     background-color: darkgreen;
 }
 
+button:hover {
+
+    height: 70px;
+    width: 150px;
+    border-radius: 5px;
+    color: darkgreen;
+    font-size: large;
+    background-color: gold;
+   transition-duration: 2s;
+}
+
 
